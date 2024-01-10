@@ -22,7 +22,7 @@ Test Engineer with 7 years of experience in establishing and refining quality pr
 <h5 align="left">[09/2018 - Today] Test Engineer | BUKALAPAK</h5>
 <p align="left"> 
 
-<img align="left" alt="" src="https://seeklogo.com/images/B/bukalapak-logo-00420188D0-seeklogo.com.png" width="250" height="190">
+<img align="left" alt="" src="https://1.bp.blogspot.com/-JJ08nRn7kFA/X8N6IdioRBI/AAAAAAAAAh0/BkVIWz3AJpY9mz3WNzQ5fqCc73_pfq0UQCLcBGAsYHQ/s2048/new-bukalapak-logo.png" width="200" height="200">
 
 🌸 Create a test plan and execute various test types: regression, smoke-test, sanity,
 E2E, and performance tests, utilizing Xray or TestRail as the test case management
@@ -48,7 +48,7 @@ end-to-end tests, and report integration on both Jenkins and GitLab CI/CD.
 <h5 align="left">[02/2015 - 08/2018] Embedded Test Engineer | IDEMIA</h5>
 <p align="left"> 
 
-<img align="left" alt="" src="https://seeklogo.com/images/I/idemia-logo-6C15F40805-seeklogo.com.png">
+<img align="left" alt="" src="https://lensec.com/wp-content/uploads/2020/12/Idemia-Logo-768x601.png"  width="180" height="140">
 
 Handle quality process on Global Platform, particularly EMV/EMVCo projects. Cre-
 ating and providing a comprehensive test plan and strategy aligned with the Software
