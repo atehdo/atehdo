@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/git-profile.png" width="600" height="100"/>
+<img src="img/git-profile.png"/>
 </div>
 
 <h1 align="center">Hi there! 👋, I'm Odheta</h1>
