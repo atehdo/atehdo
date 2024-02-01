@@ -19,33 +19,48 @@ Test Engineer with 7 years of experience in establishing and refining quality pr
 </p>
 
 <h3 align="left">Work Experience:</h3>
-<h5 align="left">[09/2018 - Today] Test Engineer | BUKALAPAK</h5>
+
+<h4 align="left">[2/2022 -- Present] Core Quality Engineer | BUKALAPAK</h4>
 <p align="left"> 
 
 <img align="left" alt="" src="https://1.bp.blogspot.com/-JJ08nRn7kFA/X8N6IdioRBI/AAAAAAAAAh0/BkVIWz3AJpY9mz3WNzQ5fqCc73_pfq0UQCLcBGAsYHQ/s2048/new-bukalapak-logo.png" width="200" height="200">
 
-🌸 Create a test plan and execute various test types: regression, smoke-test, sanity,
-E2E, and performance tests, utilizing Xray or TestRail as the test case management
-tools.
+🌸 Review automation strategy such as UI, API, and Mobile testing, for all testing level.  
+🌸 Create autonomous integration test process in Gitlab CI/CD to connect with test management system using Testrail.  
+🌸 Maintain test automation framework and infrastructure for all Bukalapak squads.  
+🌸 Provide technical support for quality and engineering team relating test frameworks and its integration.  
+🌸 Contribute to defining standards by initiating the RFC, conducting PoCs, and building tools to enhance engineers productivity in relation to the quality process.  
+🌸 Research and develop quality monitoring metrics using Grafana.  
 
-🌸 Proficient in manual and automation testing for Web, API, and Apps, including
-the maintanance of integrated report tools.
+## 
 
-🌸 Lead quality team to achieve success rates and test coverage aligned with the
-defined baseline to ensure the team consistently delivers a high-quality product.
+<h4 align="left">[10/2020 -- 2/2022] Medior Test Engineer / Test Engineer Squad Lead | BUKALAPAK</h4>
+<p align="left"> 
 
-🌸 Collaborate with the IC team to enhance quality tools, supporting engineers in
-improving productivity.
+<img align="right" alt="" src="https://1.bp.blogspot.com/-JJ08nRn7kFA/X8N6IdioRBI/AAAAAAAAAh0/BkVIWz3AJpY9mz3WNzQ5fqCc73_pfq0UQCLcBGAsYHQ/s2048/new-bukalapak-logo.png" width="200" height="200">
 
-🌸 Work closely with automation contributors (QA and engineers) to ensure adherence to test code best practices and provide technical guidelines for automation-related processes.
+🌸 Mentors and lead test engineers in squad.  
+🌸 Review automation test implementation by the engineers.  
+🌸 Dealing with flaky test, timing issues, and speeding up test suite run times.  
+🌸 Maintain and increase test automation coverage on the CI/CD using Jenkins and Gitlab CI/CD.  
+🌸 Technically guide the team to help their transition from Manual Quality Assurance to Associate Test Engineer.  
 
-🌸 Maintain the test pipeline across stages, including unit tests, integration tests,
-end-to-end tests, and report integration on both Jenkins and GitLab CI/CD.
+## 
 
-🌸 Team up to research and implement quality metrics on Grafana, with the aim of providing stakeholders with visualizations for measuring both quality and development overview.
+<h4 align="left">[9/2018 -- 9/2020] Software Development Engineer in Test | BUKALAPAK</h4>
+<p align="left"> 
+
+<img align="right" alt="" src="https://1.bp.blogspot.com/-JJ08nRn7kFA/X8N6IdioRBI/AAAAAAAAAh0/BkVIWz3AJpY9mz3WNzQ5fqCc73_pfq0UQCLcBGAsYHQ/s2048/new-bukalapak-logo.png" width="200" height="200">
+
+🌸 Collaboration with cross-functional teams to develop features with a focus on quality with provide feedback as quality perspectives.  
+🌸 Create test cases and conducted manual testing for UI, API, and Mobile platforms, ensuring thorough examination of software functionality.  
+🌸 Create automation code for UI, API, and Mobile. Streamlining testing processes and enhancing efficiency.  
+🌸 Perform and report result of exploratory testing, integration testing, sanity, regression, smoke-test, UAT and performance testing.  
+🌸 Actively contributed to debugging and root cause analysis for defects and bugs, enhancing the overall robustness of the software.  
+🌸 Increase test automation coverage for UI, API, and Mobile automation.  
 </p>
 
-<h5 align="left">[02/2015 - 08/2018] Embedded Test Engineer | IDEMIA</h5>
+## <h4 align="left">[02/2015 - 08/2018] Embedded Test Engineer | IDEMIA</h4>
 <p align="left"> 
 
 <img align="left" alt="" src="https://lensec.com/wp-content/uploads/2020/12/Idemia-Logo-768x601.png"  width="180" height="140">
