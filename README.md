@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋, I'm Odheta</h1>
 <img align="right" alt="Coding" src="img/hijab-girl.png" width="200" height="200">
 
-Test Engineer with 7 years of experience in establishing and refining quality processes. Proficient in implementing and optimizing procedures to ensure high-quality product delivery. Adept at conducting tests across multiple platforms, including API, Web, and Mobile. Skilled in coaching, providing automation tools support, and addressing technical issues. Experienced in working within teams for quality purposes. Eager to contribute my expertise, fostering a culture of quality excellence and continuous improvement.
+Quality Engineer dedicated to ensuring the delivery of high-quality products. Skilled in conducting both manual and automation tests for APIs and Mobile applications. Capable of coaching, enhancing, and providing technical support for quality improvement initiatives. Enthusiastic about leveraging expertise to cultivate a culture of quality excellence and continuous improvement.
 
 🔭 I’m currently working at **Bukalapak**
 
